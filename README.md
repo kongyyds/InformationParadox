@@ -1,8 +1,8 @@
 ***简介***
 
-RedTeam活动生命周期各阶段资源。
+RedTeam活动周期份阶段资源整理。
 ***
-# 相关资源
+## 相关资源
 - https://mitre-attack.github.io/    mitre科技机构对攻击技术的总结wiki
 - https://huntingday.github.io    MITRE | ATT&CK 中文站
 - https://arxiv.org    康奈尔大学（Cornell University）开放文档
