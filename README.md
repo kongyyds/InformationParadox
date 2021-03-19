@@ -1359,25 +1359,7 @@ RedTeam活动生命周期各阶段资源。
 - https://github.com/haiwen/seafile    C,私有云网盘，速度快，功能少
 - https://github.com/ymfe/yapi    API管理工具
 - https://thyrsi.com/    图片上传分享工具
-### 隐私匿名加密
-- https://www.lshack.cn/118/    在线接收验证码/邮箱/粘贴板/文件传输大集合。
-- http://bccto.me    一次性邮箱
-- https://www.guerrillamail.com    一次性邮箱
-- http://24mail.chacuo.net/    一次性邮箱
-- http://www.yopmail.com    一次性邮箱
-- https://yandex.com/    非手机邮箱
-- https://mail.ru/    非手机邮箱
-- https://mail.protonmail.com/login    非手机邮箱
-- https://github.com/walkor/workerman-chat    php，在线聊天室，可扩展
-- https://github.com/hack-chat    https://hack.chat/?your-channel js,在线聊天，问号后面跟你的房间名
-- https://github.com/akaxincom/openzaly    java,聊天室，Akaxin为客户端闭源
-- https://github.com/RocketChat/Rocket.Chat    js,在线团队聊天服务器，https://rocket.chat/install
-- https://telegram.org
-- https://www.whatsapp.com
-- https://wire.com/en
-- https://signal.org
-- http://www.batmessenger.com
-- http://sid.co
+
 ***
 TheEnd
 ***
