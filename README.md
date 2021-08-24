@@ -22,3 +22,21 @@
 
 ## Blog
 
+- [3gstudent](https://3gstudent.github.io/)
+- [koalr](https://koalr.me/)  
+- [c0ny](https://gv7.me/)
+- [李三](http://redteam.today/)
+- [mochazz](https://mochazz.github.io/)
+- [su18](https://su18.org/)
+- [pirogue](http://pirogue.org/)
+- [倾旋/Rvn0xsy](https://payloads.online/)
+- [PHITHON](https://www.leavesongs.com/)
+- [l1nk3r](http://www.lmxspace.com/)
+- [chybeta](https://chybeta.github.io/)
+- [kingx](https://kingx.me/)
+- [p0rz9](https://p0rz9.github.io/)
+- [Ruilin](http://rui0.cn/blog)
+- [RastaMouse/Rythmstic/Furby/CyberZombi3](https://offensivedefence.co.uk/)
+- [Faith](https://faraz.faith/)
+- [Wing](https://redteaming.net/)
+- [Orange](http://blog.orange.tw/)
