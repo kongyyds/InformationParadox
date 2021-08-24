@@ -4,7 +4,7 @@
 - [红队资源](https://github.com/pen4uin/RedTeam/tree/main/Note)
 - [BCS2019 RedTeam会议内容](https://github.com/pen4uin/RedTeam/tree/main/Note) by `by QAX A-TEAM`
 
-## PPT&Article
+## PPT
 
 - [规划-我的白帽学习路线-猪猪侠](https://github.com/pen4uin/RedTeam/tree/main/PPT%26PDF) `by 猪猪侠`
 - [内网-多维度对抗 Windows AppLocker](https://github.com/pen4uin/RedTeam/tree/main/PPT%26PDF) `by Ivan1ee@360 云影实验室`
