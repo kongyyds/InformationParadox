@@ -1,9 +1,18 @@
-## RT
+## Note
 
-- [红队手册](https://github.com/0wlsec/RedTeam/blob/main/%E7%BA%A2%E9%98%9F%E6%89%8B%E5%86%8C.md)
-- [红队相关资源](https://github.com/0wlsec/RedTeam/blob/main/%E7%BA%A2%E9%98%9F%E7%9B%B8%E5%85%B3%E8%B5%84%E6%BA%90.md)
-- [BCS2019 RedTeam部分会议内容-A-TEAM](https://github.com/0wlsec/RedTeam/blob/main/BCS2019.md)
-- [ATT&CK手册-DeadEye](https://github.com/0wlsec/RedTeam/blob/main/%E3%80%8AATT%26CK%E6%89%8B%E5%86%8C(%E4%BF%AE%E6%94%B9%E7%89%88)%E3%80%8B.pdf)
+- [红队手册](https://github.com/pen4uin/RedTeam/tree/main/Note) `by klion`
+- [红队资源](https://github.com/pen4uin/RedTeam/tree/main/Note)
+- [BCS2019 RedTeam会议内容](https://github.com/pen4uin/RedTeam/tree/main/Note) by `by QAX A-TEAM`
 
-## PPT
+## PPT&Article
 
+- [规划-我的白帽学习路线-猪猪侠](https://github.com/pen4uin/RedTeam/tree/main/PPT%26PDF) `by 猪猪侠`
+- [内网-多维度对抗 Windows AppLocker](https://github.com/pen4uin/RedTeam/tree/main/PPT%26PDF) `by Ivan1ee@360 云影实验室`
+- [内网-域权限维持方法浅析](https://github.com/pen4uin/RedTeam/tree/main/PPT%26PDF) `by IFO 安全研究员@金山云`
+- [内网-利用WinRM实现内网无文件落地攻击](https://github.com/pen4uin/RedTeam/tree/main/PPT%26PDF) `by Ivan1ee@360 云影实验室`
+- [内网-内网安全攻防-笔记](https://github.com/pen4uin/RedTeam/tree/main/PPT%26PDF) 
+- [内网-全补丁环境下的域内攻防对抗](https://github.com/pen4uin/RedTeam/tree/main/PPT%26PDF) `by 戴志斌@360灵腾安全实验室`
+- [内网-Windows+Privilege+Escalation](https://github.com/pen4uin/RedTeam/tree/main/PPT%26PDF) `by Tib3rius`
+
+## eBook
+- [《ATT&CK手册》](https://github.com/pen4uin/RedTeam/tree/main/PPT%26PDF) `by DeadEye`
