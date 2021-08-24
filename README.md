@@ -13,6 +13,7 @@
 - [内网-内网安全攻防-笔记](https://github.com/pen4uin/RedTeam/tree/main/PPT%26PDF) 
 - [内网-全补丁环境下的域内攻防对抗](https://github.com/pen4uin/RedTeam/tree/main/PPT%26PDF) 
 - [内网-Windows+Privilege+Escalation](https://github.com/pen4uin/RedTeam/tree/main/PPT%26PDF) 
+- [思维-自动化攻击背景下的过去、现在与未来-猪猪侠](https://github.com/pen4uin/RedTeam/tree/main/PPT%26PDF)
 
 ## Book
 - [《ATT&CK手册》](https://github.com/pen4uin/RedTeam/tree/main/Book) 
