@@ -15,7 +15,7 @@
 - [内网-Windows+Privilege+Escalation](https://github.com/pen4uin/RedTeam/tree/main/PPT%26PDF) 
 
 ## Book
-- [《ATT&CK手册》](https://github.com/pen4uin/RedTeam/tree/main/PPT%26PDF) 
+- [《ATT&CK手册》](https://github.com/pen4uin/RedTeam/tree/main/Book) 
 
 ## Article
 
