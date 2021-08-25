@@ -43,3 +43,7 @@
 - [Evi1cg](https://evi1cg.me/)
 - [Ivan1ee](https://ivan1ee.gitbook.io/)
 - [GitHub Security Lab](https://securitylab.github.com/)
+- [COMPASS SECURITY BLOG](https://blog.compass-security.com/)
+- [Cas van Cooten](https://casvancooten.com/)
+- [OsandaMalith](https://osandamalith.com/)
+- [InfosecWriteups](https://infosecwriteups.com/)
