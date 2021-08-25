@@ -5,7 +5,7 @@
 - [红队资源](https://github.com/pen4uin/InformationParadox/tree/main/Note)
 - [BCS2019 InformationParadox会议内容](https://github.com/pen4uin/InformationParadox/tree/main/Note) 
 
-## PPT
+## Misc
 
 - [规划-我的白帽学习路线-猪猪侠](https://github.com/pen4uin/InformationParadox/tree/main/PPT%26PDF) 
 - [内网-多维度对抗 Windows AppLocker](https://github.com/pen4uin/InformationParadox/tree/main/PPT%26PDF)
