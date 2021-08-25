@@ -40,3 +40,4 @@
 - [Faith](https://faraz.faith/)
 - [Wing](https://redteaming.net/)
 - [Orange](http://blog.orange.tw/)
+- [Evi1cg](https://evi1cg.me/)
