@@ -1,25 +1,26 @@
+> We are drowning in information but starved for knowledge. 
 ## Note
 
-- [红队手册](https://github.com/pen4uin/RedTeam/tree/main/Note) 
-- [红队资源](https://github.com/pen4uin/RedTeam/tree/main/Note)
-- [BCS2019 RedTeam会议内容](https://github.com/pen4uin/RedTeam/tree/main/Note) 
+- [红队手册](https://github.com/pen4uin/InformationParadox/tree/main/Note) 
+- [红队资源](https://github.com/pen4uin/InformationParadox/tree/main/Note)
+- [BCS2019 InformationParadox会议内容](https://github.com/pen4uin/InformationParadox/tree/main/Note) 
 
 ## PPT
 
-- [规划-我的白帽学习路线-猪猪侠](https://github.com/pen4uin/RedTeam/tree/main/PPT%26PDF) 
-- [内网-多维度对抗 Windows AppLocker](https://github.com/pen4uin/RedTeam/tree/main/PPT%26PDF)
-- [内网-域权限维持方法浅析](https://github.com/pen4uin/RedTeam/tree/main/PPT%26PDF) 
-- [内网-利用WinRM实现内网无文件落地攻击](https://github.com/pen4uin/RedTeam/tree/main/PPT%26PDF) 
-- [内网-内网安全攻防-笔记](https://github.com/pen4uin/RedTeam/tree/main/PPT%26PDF) 
-- [内网-全补丁环境下的域内攻防对抗](https://github.com/pen4uin/RedTeam/tree/main/PPT%26PDF) 
-- [内网-Windows+Privilege+Escalation](https://github.com/pen4uin/RedTeam/tree/main/PPT%26PDF) 
-- [思维-自动化攻击背景下的过去、现在与未来-猪猪侠](https://github.com/pen4uin/RedTeam/tree/main/PPT%26PDF)
+- [规划-我的白帽学习路线-猪猪侠](https://github.com/pen4uin/InformationParadox/tree/main/PPT%26PDF) 
+- [内网-多维度对抗 Windows AppLocker](https://github.com/pen4uin/InformationParadox/tree/main/PPT%26PDF)
+- [内网-域权限维持方法浅析](https://github.com/pen4uin/InformationParadox/tree/main/PPT%26PDF) 
+- [内网-利用WinRM实现内网无文件落地攻击](https://github.com/pen4uin/InformationParadox/tree/main/PPT%26PDF) 
+- [内网-内网安全攻防-笔记](https://github.com/pen4uin/InformationParadox/tree/main/PPT%26PDF) 
+- [内网-全补丁环境下的域内攻防对抗](https://github.com/pen4uin/InformationParadox/tree/main/PPT%26PDF) 
+- [内网-Windows+Privilege+Escalation](https://github.com/pen4uin/InformationParadox/tree/main/PPT%26PDF) 
+- [思维-自动化攻击背景下的过去、现在与未来-猪猪侠](https://github.com/pen4uin/InformationParadox/tree/main/PPT%26PDF)
 
 ## Book
-- [《ATT&CK手册》](https://github.com/pen4uin/RedTeam/tree/main/Book) 
+- [《ATT&CK手册》](https://github.com/pen4uin/InformationParadox/tree/main/Book) 
 
-## Article
-
+## Paper
+- [一种虚拟机逃逸的防护方法及装置](https://github.com/pen4uin/InformationParadox/tree/main/Paper)
 ## Blog
 
 - [3gstudent](https://3gstudent.github.io/)
@@ -38,7 +39,7 @@
 - [Ruilin](http://rui0.cn/blog)
 - [RastaMouse/Rythmstic/Furby/CyberZombi3](https://offensivedefence.co.uk/)
 - [Faith](https://faraz.faith/)
-- [Wing](https://redteaming.net/)
+- [Wing](https://InformationParadoxing.net/)
 - [Orange](http://blog.orange.tw/)
 - [Evi1cg](https://evi1cg.me/)
 - [Ivan1ee](https://ivan1ee.gitbook.io/)
