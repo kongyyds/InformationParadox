@@ -4,23 +4,39 @@
 - [红队手册](https://github.com/pen4uin/InformationParadox/tree/main/Note) 
 - [红队资源](https://github.com/pen4uin/InformationParadox/tree/main/Note)
 - [BCS2019 InformationParadox会议内容](https://github.com/pen4uin/InformationParadox/tree/main/Note) 
+- [内网安全攻防](https://github.com/pen4uin/InformationParadox/tree/main/PPT%26PDF) 
 
-## Misc
+## PPT
 
-- [规划-我的白帽学习路线-猪猪侠](https://github.com/pen4uin/InformationParadox/tree/main/PPT%26PDF) 
-- [内网-多维度对抗 Windows AppLocker](https://github.com/pen4uin/InformationParadox/tree/main/PPT%26PDF)
-- [内网-域权限维持方法浅析](https://github.com/pen4uin/InformationParadox/tree/main/PPT%26PDF) 
-- [内网-利用WinRM实现内网无文件落地攻击](https://github.com/pen4uin/InformationParadox/tree/main/PPT%26PDF) 
-- [内网-内网安全攻防-笔记](https://github.com/pen4uin/InformationParadox/tree/main/PPT%26PDF) 
-- [内网-全补丁环境下的域内攻防对抗](https://github.com/pen4uin/InformationParadox/tree/main/PPT%26PDF) 
-- [内网-Windows+Privilege+Escalation](https://github.com/pen4uin/InformationParadox/tree/main/PPT%26PDF) 
+- [我的白帽学习路线-猪猪侠](https://github.com/pen4uin/InformationParadox/tree/main/PPT%26PDF) 
+- [多维度对抗 Windows AppLocker](https://github.com/pen4uin/InformationParadox/tree/main/PPT%26PDF)
+- [域权限维持方法浅析](https://github.com/pen4uin/InformationParadox/tree/main/PPT%26PDF) 
+- [利用WinRM实现内网无文件落地攻击](https://github.com/pen4uin/InformationParadox/tree/main/PPT%26PDF) 
+- [全补丁环境下的域内攻防对抗](https://github.com/pen4uin/InformationParadox/tree/main/PPT%26PDF) 
+- [Windows+Privilege+Escalation](https://github.com/pen4uin/InformationParadox/tree/main/PPT%26PDF) 
 - [思维-自动化攻击背景下的过去、现在与未来-猪猪侠](https://github.com/pen4uin/InformationParadox/tree/main/PPT%26PDF)
+- [Docker安全-从入门到实战](https://github.com/pen4uin/InformationParadox/tree/main/PPT%26PDF)
+- [Android手机系统安全审计攻防](https://github.com/pen4uin/InformationParadox/tree/main/PPT%26PDF)
+- [2020CIS基于安全切面实现银行级默认安全](https://github.com/pen4uin/InformationParadox/tree/main/PPT%26PDF)
+- [Android混淆技巧与反混淆](https://github.com/pen4uin/InformationParadox/tree/main/PPT%26PDF)
+- [DDoS的灾难性攻击解析与应对](https://github.com/pen4uin/InformationParadox/tree/main/PPT%26PDF)
+- [Github敏感信息泄露监控](https://github.com/pen4uin/InformationParadox/tree/main/PPT%26PDF)
+- [RASP技术介绍](https://github.com/pen4uin/InformationParadox/tree/main/PPT%26PDF)
+- [SDL的深入探究及实践](https://github.com/pen4uin/InformationParadox/tree/main/PPT%26PDF)
+- [Build Your SSRF Exploit Framework](https://github.com/pen4uin/InformationParadox/tree/main/PPT%26PDF)
+- [DOM-XSS挖掘与攻击面延伸](https://github.com/pen4uin/InformationParadox/tree/main/PPT%26PDF)
+- [美联WAF架构演变之路](https://github.com/pen4uin/InformationParadox/tree/main/PPT%26PDF)
+- [企业业务安全开发实践](https://github.com/pen4uin/InformationParadox/tree/main/PPT%26PDF)
+- [微众银行的安全运营实践](https://github.com/pen4uin/InformationParadox/tree/main/PPT%26PDF)
 
 ## Book
 - [《ATT&CK手册》](https://github.com/pen4uin/InformationParadox/tree/main/Book) 
-
+- [《Web应用安全权威指南》](https://github.com/pen4uin/InformationParadox/tree/main/Book)
+- [《Vulnhub靶场实战指南》](https://github.com/pen4uin/InformationParadox/tree/main/Book)
+- 
 ## Paper
 - [一种虚拟机逃逸的防护方法及装置](https://github.com/pen4uin/InformationParadox/tree/main/Paper)
+
 ## Blog
 
 - [3gstudent](https://3gstudent.github.io/)
