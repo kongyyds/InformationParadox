@@ -50,3 +50,4 @@
 - [InfosecWriteups](https://infosecwriteups.com/)
 - [LandGrey](https://landgrey.me/)
 - [Yuanhai](https://websecuritys.cn/)
+- [腾讯安全](https://security.tencent.com/index.php/blog/)
