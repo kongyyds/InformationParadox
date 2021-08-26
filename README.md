@@ -3,7 +3,7 @@
 
 - [红队手册](https://github.com/pen4uin/InformationParadox/tree/main/Note) 
 - [红队资源](https://github.com/pen4uin/InformationParadox/tree/main/Note)
-- [BCS2019 InformationParadox会议内容](https://github.com/pen4uin/InformationParadox/tree/main/Note) 
+- [BCS2019 RedTeam会议内容](https://github.com/pen4uin/InformationParadox/tree/main/Note) 
 - [内网安全攻防](https://github.com/pen4uin/InformationParadox/tree/main/PPT%26PDF) 
 
 ## PPT
