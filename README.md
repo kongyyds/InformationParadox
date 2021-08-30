@@ -71,3 +71,4 @@
 - [JoyChou1993](https://joychou.org/)
 - [ADog](http://foreversong.cn/)
 - [iv4n](https://iv4n.cc/)
+- [3nd](https://3nd.xyz/)
