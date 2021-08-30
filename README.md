@@ -68,4 +68,5 @@
 - [Yuanhai](https://websecuritys.cn/)
 - [腾讯安全](https://security.tencent.com/index.php/blog/)
 - [天融信阿尔法实验室](http://blog.topsec.com.cn/)
-- [joychou](https://joychou.org/)
+- [JoyChou1993](https://joychou.org/)
+- [ADog](http://foreversong.cn/)
