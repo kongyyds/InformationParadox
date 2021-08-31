@@ -74,3 +74,5 @@
 - [3nd](https://3nd.xyz/)
 - [threedr3am](https://threedr3am.github.io/)
 - [OWASP](https://github.com/OWASP)
+- [saucer-man](https://saucer-man.com/)
+- [zcgonvh](https://www.zcgonvh.com/)
