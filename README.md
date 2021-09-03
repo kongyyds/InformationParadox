@@ -83,6 +83,8 @@
 - [猪猪侠](https://github.com/ring04h)
 - [tennc](http://tennc.github.io/)
 - [Afant1](https://www.cnblogs.com/afanti/)
+- [ske](https://skewwg.github.io/)
+- [Rcoll](https://rcoil.me/)
 ## Repositories
 - [信息安全方面书籍(150本+)](https://github.com/olist213/Information_Security_Books)
 - [SecAcademic](https://github.com/donot-wong/SecAcademic)
