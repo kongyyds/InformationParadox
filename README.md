@@ -90,6 +90,7 @@
 - [pyn3rd](https://github.com/pyn3rd)
 - [TomAPU](https://drivertom.blogspot.com/2020/01/0dayup.html)
 - [浅蓝](https://b1ue.cn/)
+- [wh1t3p1g](https://blog.0kami.cn/)
 
 ## Repositories
 - [信息安全方面书籍(150本+)](https://github.com/olist213/Information_Security_Books)
