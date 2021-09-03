@@ -81,6 +81,7 @@
 - [m01e](https://medium.com/@m01e)
 - [li9hu](http://li9hu.top/)
 - [猪猪侠](https://github.com/ring04h)
+- [tennc](http://tennc.github.io/)
 ## Repositories
 - [信息安全方面书籍(150本+)](https://github.com/olist213/Information_Security_Books)
 
