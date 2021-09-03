@@ -33,7 +33,7 @@
 - [《ATT&CK手册》](https://github.com/pen4uin/InformationParadox/tree/main/Book) 
 - [《Web应用安全权威指南》](https://github.com/pen4uin/InformationParadox/tree/main/Book)
 - [《Vulnhub靶场实战指南》](https://github.com/pen4uin/InformationParadox/tree/main/Book)
-
+- [《LeetCodeCookBook-Go》](https://books.halfrost.com/leetcode/ChapterOne/Data_Structure/)
 ## Paper
 - [一种虚拟机逃逸的防护方法及装置](https://github.com/pen4uin/InformationParadox/tree/main/Paper)
 
