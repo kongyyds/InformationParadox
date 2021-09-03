@@ -85,6 +85,12 @@
 - [Afant1](https://www.cnblogs.com/afanti/)
 - [ske](https://skewwg.github.io/)
 - [Rcoll](https://rcoil.me/)
+- [RicterZ](https://ricterz.me/)
+- [fnmsd](https://blog.csdn.net/fnmsd)
+- [pyn3rd](https://github.com/pyn3rd)
+- [TomAPU](https://drivertom.blogspot.com/2020/01/0dayup.html)
+- [浅蓝](https://b1ue.cn/)
+
 ## Repositories
 - [信息安全方面书籍(150本+)](https://github.com/olist213/Information_Security_Books)
 - [SecAcademic](https://github.com/donot-wong/SecAcademic)
