@@ -92,6 +92,7 @@
 - [浅蓝](https://b1ue.cn/)
 - [wh1t3p1g](https://blog.0kami.cn/)
 - [Y4er](https://y4er.com/)
+- [Somdev Sangwan](https://s0md3v.github.io/)
 ## Repositories
 - [信息安全方面书籍(150本+)](https://github.com/olist213/Information_Security_Books)
 - [SecAcademic](https://github.com/donot-wong/SecAcademic)
