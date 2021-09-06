@@ -94,7 +94,7 @@
 - [Y4er](https://y4er.com/)
 - [Somdev Sangwan](https://s0md3v.github.io/)
 - [Hacker News](https://news.ycombinator.com/)
-
+- [Noah Lab](http://noahblog.360.cn/)
 
 ## Repositories
 - [信息安全方面书籍(150本+)](https://github.com/olist213/Information_Security_Books)
