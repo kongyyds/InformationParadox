@@ -96,8 +96,12 @@
 - [Hacker News](https://news.ycombinator.com/)
 - [Noah Lab](http://noahblog.360.cn/)
 - [Assetnote Labs](https://blog.assetnote.io/)
+- [irsdl@@MDSecLabs](https://soroush.secproject.com/blog/)
+
+
 ## Repositories
 - [信息安全方面书籍(150本+)](https://github.com/olist213/Information_Security_Books)
 - [SecAcademic](https://github.com/donot-wong/SecAcademic)
 - [CheatSheetSeries-OWASP](https://github.com/OWASP/CheatSheetSeries)
 - [0x727](https://github.com/0x727)
+- [top10webseclist](https://github.com/irsdl/top10webseclist)
