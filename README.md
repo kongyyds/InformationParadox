@@ -97,7 +97,7 @@
 - [Noah Lab](http://noahblog.360.cn/)
 - [Assetnote Labs](https://blog.assetnote.io/)
 - [irsdl@@MDSecLabs](https://soroush.secproject.com/blog/)
-
+- [奇安信攻防社区](https://forum.butian.net/)
 
 ## Repositories
 - [信息安全方面书籍(150本+)](https://github.com/olist213/Information_Security_Books)
